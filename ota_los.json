@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1786824345,
+      "filename": "lineage-23.2-20260816-UNOFFICIAL-boston.zip",
+      "id": "0521c31d217e796b52ae3afaae353acd",
+      "romtype": "unofficial",
+      "size": 1329234796,
+      "url": "https://github.com/cuscomoto6/android_device_motorola_boston/releases/download/los/lineage-23.2-20260816-UNOFFICIAL-boston.zip",
+      "version": "23.2"
+    }
+  ]
+}
