@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-08-17",
+    "datetime": 1786999584,
+    "files": [
+      {
+        "date": "2026-08-17",
+        "datetime": 1786999584,
+        "filename": "MicroG-lineage-23.2-20260817-UNOFFICIAL-boston.zip",
+        "filepath": "/full/boston/20260817/MicroG-lineage-23.2-20260817-UNOFFICIAL-boston.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:4148:105171,payload.bin:4148:1526697457,payload_properties.txt:1526701663:156,apex_info.pb:2084:1309,care_map.pb:3440:661,metadata:69:678,metadata.pb:815:1221",
+        "sha1": "6150cc8ac543f6e87ad338bc913284b62303a98e",
+        "sha256": "3c4ebbe16eab82a85175fec8a394ac6a88fcda1e306214a96f267d5948eb783e",
+        "size": 1526704969,
+        "type": "UNOFFICIAL",
+        "url": "https://github.com/cuscomoto6/ota_los/releases/download/v1/MicroG-lineage-23.2-20260817-UNOFFICIAL-boston.zip"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "23.2"
+  }
+]
