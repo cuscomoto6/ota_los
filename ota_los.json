@@ -1,21 +1,21 @@
 [
   {
-    "date": "2026-08-17",
-    "datetime": 1786998748,
+    "date": "2026-10-03",
+    "datetime": 1791039212,
     "files": [
       {
-        "date": "2026-08-17",
-        "datetime": 1786998748,
+        "date": "2026-10-03",
+        "datetime": 1791039212,
         "filename": "lineage-23.2-20260817-UNOFFICIAL-boston.zip",
-        "filepath": "/full/boston/20260817/lineage-23.2-20260817-UNOFFICIAL-boston.zip",
-        "os_patch_level": "2026-08-01",
+        "filepath": "/full/boston/20261003/lineage-23.2-20261003-UNOFFICIAL-boston.zip",
+        "os_patch_level": "2026-09-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:4424:134960,payload.bin:4424:1443243772,payload_properties.txt:1443248254:156,apex_info.pb:2084:1309,care_map.pb:3440:937,metadata:69:678,metadata.pb:815:1221",
-        "sha1": "eac472153551b56e9be7506e24962a6fc2241956",
-        "sha256": "b35fee1ea8a070a812d3250937ecc00c45f035cfd8138d0e80fd2c1ef01f4ba9",
-        "size": 1443251560,
+        "ota_property_files": "payload_metadata.bin:4424:123471,payload.bin:4424:1338871811,payload_properties.txt:1338876293:156,apex_info.pb:2084:1309,care_map.pb:3440:937,metadata:69:678,metadata.pb:815:1221",        
+        "sha1": "cbbf62813e05b3cced90b3a8d0a613f4cb586c3d",
+        "sha256": "3a0d27733d081e551ab461584e31012daa0e9529ca15b7840a83a864f72aea7b",
+        "size": 1338879599,
         "type": "unofficial",
-        "url": "https://github.com/cuscomoto6/ota_los/releases/download/v1/lineage-23.2-20260817-UNOFFICIAL-boston.zip"
+        "url": "https://github.com/cuscomoto6/ota_los/releases/download/v1/lineage-23.2-20261003-UNOFFICIAL-boston.zip"
       }
     ],
     "type": "UNOFFICIAL",
