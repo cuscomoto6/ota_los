@@ -10,7 +10,7 @@
         "filepath": "/full/boston/20261003/lineage-23.2-20261003-UNOFFICIAL-boston.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:4424:123471,payload.bin:4424:1338871811,payload_properties.txt:1338876293:156,apex_info.pb:2084:1309,care_map.pb:3440:937,metadata:69:678,metadata.pb:815:1221",        
+        "ota_property_files": "payload_metadata.bin:4424:123471,payload.bin:4424:1338871811,payload_properties.txt:1338876293:156,apex_info.pb:2084:1309,care_map.pb:3440:937,metadata:69:678,metadata.pb:815:1221", 
         "sha1": "cbbf62813e05b3cced90b3a8d0a613f4cb586c3d",
         "sha256": "3a0d27733d081e551ab461584e31012daa0e9529ca15b7840a83a864f72aea7b",
         "size": 1338879599,
